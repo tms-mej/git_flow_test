@@ -11,8 +11,8 @@ namespace git_flow_test
 	{
 		static void Main(string[] args)
 		{
-			Console.Write("Hello ");
-			Console.WriteLine("World!");
+			
+			
 			Console.Write("Enter your name: ");
 			String name = Console.ReadLine();
 			Console.Write("Good day, ");
