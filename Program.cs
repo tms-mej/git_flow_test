@@ -18,7 +18,7 @@ namespace git_flow_test
 			Console.Write("Good day, ");
 			Console.Write(name);
 			Console.WriteLine("!");
-			Console.WriteLine("v.1.1");
+			Console.WriteLine("v.1.1.1");
 			Thread.Sleep(2000);
 		}
 	}
