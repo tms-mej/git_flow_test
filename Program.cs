@@ -12,7 +12,7 @@ namespace git_flow_test
 		static void Main(string[] args)
 		{
 			
-			Console.WriteLine("World!");
+			
 			Console.Write("Enter your name: ");
 			String name = Console.ReadLine();
 			Console.Write("Good day, ");
